@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Live Hosting
+
+This webpage can be found on [Github Pages](https://camiloibanez.github.io/followers-app/), [Firebase](https://followers-app-ab390.firebaseapp.com/), and [Heroku](https://radiant-tor-24436.herokuapp.com/).
